@@ -1,7 +1,7 @@
 # Simple-Text-Processing-Program 
 ## A Simple Text Processing Program (Text Mining).
-Load a text file based on the file name entered by the user. (Example: text3.txt) <br> 
-If the user enters a file name whose corresponding file does not exist, the program will display ("File not found!")) <br>
+***Load a text*** file based on the file name entered by the user. ***(Example: text3.txt)*** <br> 
+If the user enters a file name whose corresponding file does not exist, the program will display ***("File not found!")*** <br>
 The program will show a selection menu repeatedly until user enters a 0 <br>
 Choice ***0*** - Quit the program <br>
 Choice ***1*** - Count the number of words in the text <br>
